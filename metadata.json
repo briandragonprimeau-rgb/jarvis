@@ -1,0 +1,11 @@
+{
+  "name": "Luxury Assistant AI",
+  "description": "An AI-integrated assistant with Google Workspace access, a luxury lounge UI, and agentic task capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
